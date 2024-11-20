@@ -8,3 +8,4 @@ ademas del codigo para los graficos.
 
 
 
+README
