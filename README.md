@@ -18,7 +18,7 @@ Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar)(0000-0002-3412-7478) an
 ### Validacion_BS_mat y Validacion_TS_mat
 - Contienen los archivos de los resultados del procesamiento de las señales de BS y TS mediante Matlab.
 
-### Resultados_Tablas
+### Tablas
 - Contiene los archivos CSV, con las comparaciones estadísticas y los resultados de la VFC, tanto para BS como para TS.
 
 ### Codigo R
