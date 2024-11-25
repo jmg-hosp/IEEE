@@ -1,5 +1,5 @@
 
-  ### TABLA I: Series BS. Índices, expresados en mediana [1er;3er] cuartil. Posición supina
+  ### TABLA I: Series BS. Índices, expresados en mediana [1er;3er] cuartil. Posición supina.
 
 |   | Índices | SUC-A                | SUC-P               | SUA              | SUP                  | SUB-A            | SUB-P            |
 |:---:|:-------:|:--------------------:|:-------------------:|:----------------:|:--------------------:|:----------------:|:----------------:|
