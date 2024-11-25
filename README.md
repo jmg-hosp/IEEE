@@ -19,8 +19,8 @@ Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar)(0000-0002-3412-7478) an
 - Contienen los archivos de los resultados del procesamiento de las señales de BS y TS mediante Matlab.
 
 ### Tablas
-- Contiene los archivos formato Markdown, de la TABLA I, TABLA II y TABLA III.
+- Contiene los archivos formato Markdown, de la TABLA I, TABLA II y TABLA III, confeccionadas a partir de los resultados del procesamiento y los cálculos estadísticos.
 
 ### Codigo R
-- Contiene todos los scripts en R para los cálculos estadísticos utilizados, además del código para los gráficos.
+- Contiene todos los scripts en R para los cálculos estadísticos utilizados.
 
