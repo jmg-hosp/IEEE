@@ -10,10 +10,10 @@ Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar)(0000-0002-3412-7478) an
 ## Estructura de Carpetas y Archivos
 
 ### Validacion_BS_TS
-- Contiene los archivos .CSV de las señales de BS muestreadas a 3Hz y TS muestreadas a 1Hz.
+- Archivos .CSV de las señales de BS muestreadas a 3Hz y TS muestreadas a 1Hz.
 
 ### Codigo Octave
-- Contiene el archivo de pre y procesamiento de las señales.
+- Archivo de pre y procesamiento de las señales.
 
 ### Validacion_BS_mat y Validacion_TS_mat
 - Contienen los archivos de los resultados del procesamiento de las señales de BS y TS mediante Matlab.
