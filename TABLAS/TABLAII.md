@@ -1,3 +1,5 @@
+### TABLA II: Series TS. Índices, expresados en mediana [1er;3er] cuartil. Posición supina
+
 |   | Índices | SUC-A                | SUC-P                | SUA              | SUP                  | SUB-A            | SUB-P            |
 |---|---------|----------------------|----------------------|------------------|----------------------|------------------|------------------|
 |   |         | [1st; 3rd]           | [1st; 3rd]           | [1st; 3rd]       | [1st; 3rd]           | [1st; 3rd]       | [1st; 3rd]       |
