@@ -1,3 +1,5 @@
+### TABLA III: Bland-Altman. Índices de la VFC de las series BS vs TS. Sujetos control posición supina.
+
 |   | Índices | Wilcoxon    | Sesgo                | Sesgo/mediana BS | LoA Inf   | LoA Sup   | DifLoA/mediana BS |
 |---|---------|-------------|----------------------|------------------|-----------|-----------|-------------------|
 |   |         | [	extit{p}] | [1st; 3rd]           | [\%]             | [p2.5\%]  | [p97.5\%] | [\%]              |
