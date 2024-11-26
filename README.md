@@ -16,7 +16,7 @@ Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(https://orcid.org/0
 ## Folder and File Structure
 
 ### Validacion_BS_TS
-- .CSV files of the BS series sampled at 3Hz and TS series sampled at 1Hz.
+- CSV files of the BS series sampled at 3Hz and TS series sampled at 1Hz.
 
 ### Codigo Octave
 - File of pre-processing and processing of BS and TS series.
