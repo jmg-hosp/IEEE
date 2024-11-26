@@ -1,6 +1,6 @@
 ## ID: 9270
 
-- Agreement analysis of heart rate variability indices at two different sampling rates for monitoring applications.
+# - Agreement analysis of heart rate variability indices at two different sampling rates for monitoring applications.
 
 ## Authors 
 Eduardo San Roman (eduardo.sanroman@hospitalitaliano.org.ar) ORCID(https://orcid.org/0000-0002-9369-7841)
