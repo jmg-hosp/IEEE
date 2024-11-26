@@ -12,6 +12,7 @@ Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar) ORCID(https://orcid.org
 Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(https://orcid.org/0000-0003-0107-2551)
 
 
+
 ## Folder and File Structure
 
 ### Validacion_BS_TS
