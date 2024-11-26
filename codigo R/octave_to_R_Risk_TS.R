@@ -1,6 +1,5 @@
 
-
-#ultimo capitulo Tesis Doctorado señales de Risk señales TS
+#TS series statistics
 
 #install.packages("Rcpp", dependencies = TRUE, INSTALL_opts = '--no-lock') 
 #cuando se complica la instalacion problemas de lock
