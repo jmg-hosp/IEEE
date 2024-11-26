@@ -28,5 +28,5 @@ Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(https://orcid.org/0
 - Markdown format files, of TABLE I, TABLE II and TABLE III, prepared from the results of the processing and statistical calculations of the series.
 
 ### Codigo R
-- R scripts for statistical calculations.
+- R scripts for statistical calculations in the BS and TS series.
 
