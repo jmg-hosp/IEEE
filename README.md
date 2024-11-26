@@ -19,7 +19,7 @@ Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(https://orcid.org/0
 - CSV files of the BS series sampled at 3Hz and TS series sampled at 1Hz.
 
 ### Codigo Octave
-- File of pre-processing and processing of BS and TS series.
+- Matlab scripts for processing the BS and TS series.
   
 ### Validacion_BS_mat y Validacion_TS_mat
 - Files of the results of processing the BS and TS series using Matlab.
