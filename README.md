@@ -2,12 +2,12 @@
 
 - Agreement analysis of heart rate variability indices at two different sampling rates for monitoring applications.
 
-## Autores 
-Eduardo San Roman (eduardo.sanroman@hospitalitaliano.org.ar)(0000-0002-9369-7841), Javier Zelechower (jzelechower@frba.utn.edu.ar) (0000-0003-2729-1541), 
-Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar)(0000-0002-3412-7478) and Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar)(0000-0003-0107-2551)
+## Authors 
+Eduardo San Roman (eduardo.sanroman@hospitalitaliano.org.ar) ORCID(0000-0002-9369-7841), Javier Zelechower (jzelechower@frba.utn.edu.ar) ORCID(0000-0003-2729-1541), 
+Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar) ORCID(0000-0002-3412-7478) and Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(0000-0003-0107-2551)
 
 
-## Estructura de Carpetas y Archivos
+## Folder and File Structure
 
 ### Validacion_BS_TS
 - .CSV files of the BS series sampled at 3Hz and TS series sampled at 1Hz.
