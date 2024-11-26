@@ -1,6 +1,5 @@
 
-
-#ultimo capitulo Tesis Doctorado señales de Risk
+# BS series statistics
 
 #install.packages("Rcpp", dependencies = TRUE, INSTALL_opts = '--no-lock') 
 #cuando se complica la instalacion problemas de lock
@@ -20,7 +19,6 @@ source("~/Pruebas_R/Pruebas/ci_Spearman.R")
 source("~/Pruebas_R/Pruebas/calculo_B_A.R")
 source("~/Pruebas_R/Pruebas/B_A_no_PAR.R")
 source("~/Pruebas_R/Pruebas/ci.median.R")
-source("~/Pruebas_R/Pruebas/octave_to_R_Risk_TS.R")
 
 CRC_STC_BS<-list()
 CRC_STC_A_BS<-list()
