@@ -9,7 +9,7 @@ Javier Zelechower (jzelechower@frba.utn.edu.ar) ORCID(https://orcid.org/0000-000
 
 Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar) ORCID(https://orcid.org/0000-0002-3412-7478)
 
-Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(https://orcid.org/0000-0003-0107-2551)
+Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(https://orcid.org/0000-0003-0107-2551
 
 
 
