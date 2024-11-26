@@ -3,7 +3,7 @@
 - Agreement analysis of heart rate variability indices at two different sampling rates for monitoring applications.
 
 ## Authors 
-Eduardo San Roman (eduardo.sanroman@hospitalitaliano.org.ar) ORCID(0000-0002-9369-7841),   Javier Zelechower (jzelechower@frba.utn.edu.ar) ORCID(0000-0003-2729-1541), 
+Eduardo San Roman (eduardo.sanroman@hospitalitaliano.org.ar) ORCID(0000-0002-9369-7841),      Javier Zelechower (jzelechower@frba.utn.edu.ar) ORCID(0000-0003-2729-1541), 
 Jose M. Gallardo (jose.gallardo@hospitalitaliano.org.ar) ORCID(0000-0002-3412-7478) and Marcelo R. Risk (marcelo.risk@hospitalitaliano.org.ar) ORCID(0000-0003-0107-2551)
 
 
