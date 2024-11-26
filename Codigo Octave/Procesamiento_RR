@@ -5,19 +5,10 @@ clear all;
 close all;
 clc;
 
-%(4,5,7,8,9,10,11,12,18,25,26,27,28) señales ND
-%(13,14,15,16,17,19,20,21,23,24) señales D
-%rr=load('/home/jose/Pruebas_R/Maestria/RR_ULTRA_SHORT_1_120s_reposo_IMP_PROM/RR_12_1_120s_reposo_IMPU_PROM_ND.txt')
-%rr=load('series_RR_5m_reposo_mias/RR_26_5m_ND.txt');#para dejar como ejemplo
-%rr=load('series_RR_5m_reposo_mias/RR_28_5m_ND.txt');#para dejar como ejemplo
+%Utilizar el PATH donde tenga los archivos
 %rr=csvread('/home/jose/Risk_Doctorado_Procesar/Seniales/Validacion_BS_TS/CRC02STA-BS.csv');
-%rr=csvread('/home/jose/Risk_Doctorado_Procesar/Seniales/Validacion_BS_TS/CRC01STP-BS.csv');
+rr=csvread('/home/jose/Risk_Doctorado_Procesar/Seniales/Validacion_BS_TS/CRC01STP-BS.csv');
 %rr=rr(2:end)/1000;%quito primer valor es cero y /1000 para pasar a segundos
-
-rr=load('series_RR_5m_reposo_mias/RR_24_5m_D.txt');
-%rr_300=rr;
-%name="RR_28_300s_reposo_IMP_PROM_ND.mat";
-%name="RR_24_300s_reposo_IMP_PROM_D.mat";
 
 %name="CRC_14_SUP-TS.mat";
 
@@ -42,9 +33,6 @@ t=1:300;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 s=rr';
 rr1=rr;
-#name="RR_24_5m_reposo_4mSD_corr_mPROC_D.mat";
-#name="RR_24_5m_reposo_mias_corr_mPROC_D.mat";
-
 perLimit=30;% porcentanje para filtro ectopics
 sdLimit=4;#3;
 tau=4;
@@ -180,7 +168,6 @@ xlabel('Tiempo [s]','fontsize',18,'fontweight','b')
 ylabel('RR [s]','fontsize',18,'fontweight','b')
 print(fig4,'rr_detrend','-dpng','-r600','-color')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% save RR_24_5m_pre_D.txt rr_cd -ascii;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % figure(3);
 % plot(ts,rr_cd);
